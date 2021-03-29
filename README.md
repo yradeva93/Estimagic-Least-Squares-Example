@@ -10,7 +10,7 @@ In order to use this Notebook, you need to install the estimagic [fork](https://
 
 The fork is added as a submodule to this repository.
 
-To do install the estimagic fork, run:
+To install the estimagic fork, run:
 
 ```bash
 # Clone recursive to also fetch the submodule
